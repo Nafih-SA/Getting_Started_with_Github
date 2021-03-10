@@ -5,14 +5,18 @@ testing how to convert an unversioned folder to a git repository and upload it t
 ## Procedure
 1. Goto the folder & Initiaize Git
 ```
+cd <Directory>
 git init
 ```
 
 2. Add README.md
-````
+```
 git add README.md
 ```
-
+or
+```
+notepad README.md
+```
 3. Do the first commit
 ```
 git commit -m "first commit"
