@@ -28,5 +28,6 @@ git add remote <remote_name> <repo_url/repo.git>
 ```
 5. Push changes to remote repository
 ```
-git push
+git push -u <remote_name> (<branch_name>)
 ```
+Bracket means optional.
