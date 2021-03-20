@@ -24,7 +24,7 @@ git commit -m "first commit"
 
 4. Add remote repository
 ```
-git add remote <remote_name> <repo_url/repo.git>
+git remote add <remote_name> <repo_url/repo.git>
 ```
 5. Push changes to remote repository
 ```
@@ -32,5 +32,4 @@ git push -u <remote_name> (<branch_name>)
 ```
 
 N.B: Bracket means optional.\
-N.B2: In bash use `git remote add <remote_name> <repo_url/repo.git>`
 
