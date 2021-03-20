@@ -2,7 +2,7 @@
 
 testing how to convert an unversioned folder to a git repository and upload it to github.
 
-## Procedure
+## Procedure 
 1. Goto the folder & Initiaize Git
 ```
 cd <Directory>
@@ -30,4 +30,7 @@ git add remote <remote_name> <repo_url/repo.git>
 ```
 git push -u <remote_name> (<branch_name>)
 ```
-Bracket means optional.
+
+N.B: Bracket means optional.
+N.B2: In bash use `git remote add <remote_name> <repo_url/repo.git>`
+
