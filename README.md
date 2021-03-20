@@ -31,6 +31,6 @@ git add remote <remote_name> <repo_url/repo.git>
 git push -u <remote_name> (<branch_name>)
 ```
 
-N.B: Bracket means optional.
+N.B: Bracket means optional.\
 N.B2: In bash use `git remote add <remote_name> <repo_url/repo.git>`
 
